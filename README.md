@@ -20,7 +20,7 @@
 - ppter_dns.py dns解析相关
 ## 工作原理
 使用独立于办公区内部环境的阿里云（或其他共有云），部署redis作为ip交换媒介。
-![clip_image001](.\pic\clip_image001.png)
+![clip_image001](./pic/clip_image001.png)
 # 前置动作
 - 修改正确的config.ini
 - 修改正确vpn配置
